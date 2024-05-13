@@ -1,0 +1,2 @@
+GROQ = "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"
+TOKEN = "7053538945:AAGbrdOD695dnDpTumM3Md2z1X2taavmvUg"
